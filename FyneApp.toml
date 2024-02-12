@@ -1,12 +1,5 @@
 [Details]
-  Icon = "img/icon.png"
-  Name = "Focalplane"
-  ID = "io.github.jacalz.focalplane"
-  Version = "0.0.1"
-  Build = 1
-
-[LinuxAndBSD]
-  GenericName = "Camera and Lens Tool"
-  Categories = ["Graphics", "Photography", "P2P", "Utility"]
-  Comment = "The photographer's toolbox for camera and lens calculations."
-  Keywords = ["camera", "lens", "phorography", "fyne"]
+  Icon = "Icon.png"
+  Name = "Calculator"
+  ID = "io.fyne.calculator"
+  Build = 10

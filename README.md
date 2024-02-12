@@ -1,8 +1,5 @@
-# Focalplane
+# Golang Calculator
 
-The photographer's toolbox for camera and lens calculations.
+A simple calculator application built using the Fyne toolkit.
 
-![image](img/screenshot.png)
-
-Some changes
-
+![](img/calc-dark.png) &nbsp; ![](img/calc-light.png)
