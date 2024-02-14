@@ -1,5 +1,7 @@
-# Golang Calculator
+# Calculator
 
-A simple calculator application built using the Fyne toolkit.
+## Screenshot
+
+A simple Calculator
 
 ![](img/calc-dark.png) &nbsp; ![](img/calc-light.png)
